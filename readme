@@ -1,0 +1,2 @@
+A shell script that uses curl to update a DNS entry with
+Badgers' API.
