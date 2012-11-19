@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
     <key>Label</key>
-    <string>badger-dns</string>
+    <string>badger-dns-launchd.plist</string>
     <key>ProgramArguments</key>
     <array>
         <string>/path/to/badger-dns.sh</string>
