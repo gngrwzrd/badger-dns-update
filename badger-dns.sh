@@ -3,7 +3,7 @@ USER=$1
 PASS=$2
 DOMAIN=$3
 RECORDID=$4
-LOGFILE=/tmp/badger-dns.log
+LOGFILE=~/Library/Logs/badger-dns.log
 
 touch $LOGFILE
 
